@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Within reason of course
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gary Host (get it). I have been developing for iOS since 2008/2009 (back when it was called iPhoneOS). I push for well architected and test-focused solutions both at work, and in my own projects. I'm not using this site as a portfolio, so I won't go and list the places i've been and the projects I've worked on in the past - this is a place for general ranting, samples, and current projects etc
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I currently work for [Anonyome Labs](https://anonyome.com)
 
-What else do you need?
+### My Info
 
-### my history
+If you ever want to get in touch, I use [MySudo](https://mysudo.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you don't already use this app I would suggest checking it out. Am a tad bias seeing I currently work there, but TLDR; is that we offer end-to-end encrypted email, messaging, voice/video calling and a compartmentalised browser. Nearly at the point where we can work on polishing the UI and general experience so watch this space.
+
+My deets for this are:
+
+**Email:** [g.host@sudomail.com](g.host@sudomail.com)
+
+**Messages:** If you contact me through email we can connect using MySudo messages. It may be a discardable number but I am not that silly :P
+
+**Slack:** Am holding off making a slack setups for now - but feel free to send me some existing workspaces and can jump in for a chat.
